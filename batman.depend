@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574359850 source:/home/nashar/Desktop/c projects/batman/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<pthread.h>
+	<unistd.h>
+	<string.h>
+
